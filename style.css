@@ -1,0 +1,196 @@
+/* General Styles */
+body {
+  font-family: Arial, sans-serif;
+  scroll-behavior: smooth;
+}
+
+.navbar {
+  margin-bottom: 0;
+}
+
+.section {
+  padding: 60px 0;
+  display: none; 
+}
+
+.section.active {
+  display: block; 
+}
+
+img.img-fluid {
+  max-width: 100%;
+  height: auto;
+}
+
+
+.navbar .nav-item .nav-link.active {
+  font-weight: bold;
+  color: #007bff !important;
+}
+#Section {
+    text-align: center;
+    font-weight: bold;
+}
+#para1{
+    margin-left: 55px;
+    margin-right: 55px;
+    font-size: 12px;
+}
+#imageContainer{
+    margin-left: 55px;
+    margin-right: 55px;
+}
+.container{
+    display:flex;
+    flex-direction: row;
+    
+}
+.container,div{
+    margin-left: 25px;
+    
+}
+#first{
+    margin-left: 25px;
+    margin-right: 5px;
+    font-size: 15px;
+}
+#second{
+    margin-left: 115px;
+    font-size: 15px;
+}
+#third{
+    margin-left:115px ;
+    font-size: 15px;
+}
+#heading1,#heading2,#heading3{
+    color:  #00b300;
+    font-weight: bold;
+}
+#contactheader{
+
+  font-weight: bold;
+  margin-left: 55px;
+}
+#headerc1{
+ margin-left: 55px; 
+}
+#headerc2{
+ margin-left: 55px; 
+ margin-top: -18px;
+}
+#headerc3{
+ margin-left: 55px; 
+ margin-top: -18px;
+}
+#headerc4{
+  margin-left: 55px; 
+  margin-top: -18px;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+.navbar .nav-link.active {
+    font-weight: bold;
+    color: #007bff !important;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+}
+.enquiryform,div{
+  display:flex;
+  flex-direction: column;
+
+}
+.enquiryform,input{
+   width:500px;
+   height:40px
+}
+.enquiryform{
+ margin-top: -160px;
+ margin-left: 685px;
+}
+.ymessage{
+  width:500px;
+  height: 100px;
+}
+
+textarea::placeholder {
+  text-align: left;  
+}
+
+textarea {
+  text-align: left; 
+  vertical-align: top; 
+  resize: vertical;  
+}
+#buttonstyles{
+  margin-top: 15px;
+  margin-left: 185px;
+  width:80px;
+  height:10px
+}
+#btnp{
+ background-color: #2878ce;
+}
+.footerSection{
+  width:1470px;
+  height: 500px;
+  margin-top: 30px;
+  background-image: url('images/7.jpg') ;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  margin-left: -800px;  
+  
+}
+.LocationsList{
+  margin-left: 380px;
+  margin-top: 55px;
+  font-weight: bold;
+}
+#footerheading{
+  font-weight: bold;
+   color:  #00b300;
+   margin-left: -10px;
+   margin-bottom: 5px;
+}
+#Socialmediacontact{
+  display: flex;
+  flex-direction: column;
+  margin-left: 550px;
+  margin-top: -110px;
+  font-weight: bold;
+}
+#socialmediaicons{
+   display: flex;
+  flex-direction: row;
+  margin-left: 550px;
+  margin-top: 10px;
+}
+.col-lg-66{
+  margin-left: 685px;
+  margin-top: -420px;
+}
+
+
+
+
+
+
